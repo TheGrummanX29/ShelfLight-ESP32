@@ -10,6 +10,6 @@ The most detailed and simple guide to installing and setting up lighting for you
   - Power cable for your ESP32
   - Working Internet and Telegram
 ## What you get
-  Super cool lighting for your shelf—you can control its color and state via Telegram.
+  Super cool lighting for your shelf - you can control its color and state via Telegram.
 
 
